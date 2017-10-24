@@ -1,5 +1,5 @@
 # R3VAMP
-R3VAMP (Revamp):an innov-a-thon, a platform for innovation, optimization and remixing of <br/>
+R3VAMP (Revamp): an innov-a-thon, a platform for innovation, optimization and remixing of <br/>
 old technologies & re-vamping them in a more modern/usable/secure way. In this day & age <br />
 when a lot of legacy software solutions are still around we invite you to make the lives better <br />
 by evolving the system & forging it for the better.
@@ -7,7 +7,7 @@ by evolving the system & forging it for the better.
 # Examples
 1. Take any legacy website & revamp it into a scalable microservice that runs on containers. <br />
 2. Find a faster file copy solution (Hint: Windows devs may leverage BITS for this). <br />
-3. Take any legacy application & port it into either a mobile or UWP application <br />
+3. Take any legacy application & port it into either a Mobile or Universal application. <br />
 4. Re-design a popular website.
 
 # Guidelines
